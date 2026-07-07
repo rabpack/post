@@ -1,5 +1,5 @@
 {
-    "name": "vendor/shipping",
+    "name": "rabpack/post",
     "description": "A flexible shipping cost calculation package for Laravel",
     "type": "library",
     "license": "MIT",
